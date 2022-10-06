@@ -1,0 +1,9 @@
+title: Day Yang
+description: Thinking since 1995
+show_downloads: false
+google_analytics: false
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
