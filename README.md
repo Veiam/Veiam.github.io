@@ -12,12 +12,12 @@ I am a Full Stack Software Developer in the R&D Fraud & Security Intelligence di
 
 ## Junior Full-Stack Developer
 ### 12/2018 - 12/2019 @ ECS Limited, North Carolina
-- Building .NET web services architecture to integrate REST APIs using various libraries including jQuery, Backbone, and Bootstrap
-- Shoring up the application architecture to improve logging, error, handling, and performance using SQL, ColdFusion, and Graylog
+- Building .NET web services architecture to integrate REST APIs using various libraries including jQuery, Backbone, and Bootstrap.
+- Shoring up the application architecture to improve logging, error, handling, and performance using SQL, ColdFusion, and Graylog.
 
 # 🌱 EDUCATION
 ## North Carolina State University - B.S.
-Science, Technology, and Society & Computer Programming
+Aug, 2014 - Dec, 2018: Science, Technology, and Society & Computer Programming
 
 # 🔥 RECENT WORK PROJECTS
 ## Migrate Build Logics for Microservices
@@ -28,6 +28,7 @@ Using Go and Sage, migrate build logic written in Java and Gradle for microservi
 Design and implement Row Level Security to support PostgreSQL, Oracle Database, and Microsoft SQL Server.
 
 # ⚡ CERTIFICATIONS / AWARDS
+- Microsoft Certified: Azure Fundamentals 2022
 - SAS Certified Specialist 2021
 - AWS Machine Learning Scholarship 2020
 - Adobe ColdFusion Specialist 2019
@@ -35,12 +36,12 @@ Design and implement Row Level Security to support PostgreSQL, Oracle Database, 
 - Google Developer Challenge Scholarship 2018
 - Amazon Student Developer Diploma 2017
 
-# 👀 PROGRAMMING LANGUAGES
+# 💞️ PROGRAMMING LANGUAGES
 ## Front End
-JS, Angular, HTML,CSS
+JS, Angular, HTML, CSS
 ## Back End
-Java, SAS, SQL, Go, Bach, C
+Java, SAS, SQL, Go, Bash, C
 
-# 💞️ PRECENT PERSONAL PROJECT
+# 👀 RECENT PERSONAL PROJECT
 ## Discord Bots
-Created bots using Node modules and JavaScript to automate server functions
+Created bots using Node.js modules and JavaScript to automate server functions.
