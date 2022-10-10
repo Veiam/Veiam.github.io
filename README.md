@@ -22,12 +22,13 @@ Aug, 2014 - Dec, 2018: Science, Technology, and Society & Computer Programming
 # 🔥 RECENT WORK PROJECTS
 ## Migrate Build Logics for Microservices
 ### Java and Go
-Using Go and Sage, migrate build logic written in Java and Gradle for microservices to run in Jenkins automatically.
+Using Go and Sage, migrate build logics written in Java and Gradle for microservices to run in Jenkins automatically.
 ## Implement Row Level Security
 ### Java, SQL, and Bash
 Design and implement Row Level Security to support PostgreSQL, Oracle Database, and Microsoft SQL Server.
 
 # ⚡ CERTIFICATIONS / AWARDS
+
 - Microsoft Certified: Azure Fundamentals 2022
 - SAS Certified Specialist 2021
 - AWS Machine Learning Scholarship 2020
