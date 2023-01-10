@@ -4,8 +4,14 @@
 I am a Full Stack Software Developer in the R&D Fraud & Security Intelligence division, responsible for the development, security, support, and globalization of an anti-money laundering solution in SAS Fraud and Compliance solutions.
 
 # ✨ EXPERIENCE
-## Senior Associate Software Developer
-### 02/2020 - PRESENT @ SAS, North Carolina
+## Software Engineer III
+### 01/2023 - Present @ Google, North Carolina
+- Develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another.
+- Deliver enterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in the industry and accelerate organizations’ ability to digitally transform their business with the best infrastructure, platform, industry solutions, and expertise.
+- Manage project priorities, deadlines, and deliverables & design, develop, test, deploy, maintain, and enhance software solutions.
+
+## Sr Associate Software Developer
+### 02/2020 - 01/2023 @ SAS, North Carolina
 - Develop and support Anti-money laundering (AML) solutions’ web UI, services, tests, and configurations as a full-stack developer.
 - Track, record, and resolve Project Level Security Review using Black Duck, Checkmarx, and OWASP ZAP as a security champion of AML.
 - Perform internationalization and localization reviews and documentation for I18N and end-users as a globalization champion.
